@@ -1,0 +1,9 @@
+node_modules/
+lib/
+*.tgz
+.DS_Store
+.codex/
+.scratch/
+.impeccable/
+HANDOFF-*.md
+output/

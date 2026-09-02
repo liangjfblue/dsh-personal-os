@@ -1,0 +1,3 @@
+# Support multiple authoring paths through one domain contract
+
+Users may author Personal OS content directly in Markdown, create a templated document from the UI, send content through the DSH composer, or ask the Agent after a conversation to generate a document. Every path produces the same validated Markdown and Frontmatter contract through shared Entity Templates; Agent-mediated management is primary but never makes the files dependent on the Agent. The Inspector is the sole embedded surface for creating and editing Markdown content, while external editors remain an interoperable escape hatch.

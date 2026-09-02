@@ -1,0 +1,5 @@
+- id: ui-sidebar
+  disabled: true
+- insert:
+    - id: dsh-personal-os
+      name: dsh-personal-os

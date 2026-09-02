@@ -1,0 +1,3 @@
+# Offer optional local version history
+
+Personal OS presents Git-backed change tracking as an optional “Version History” feature during initial setup and in Settings. When enabled it may initialize or reuse a local repository, but it never creates a remote, authenticates, pushes, or binds personal data to a hosting provider; advanced UI identifies Git as the implementation so the mechanism is not deceptive. One logical UI action, Agent instruction, Session Curation batch, Vault Import, or stable external-edit batch forms one local checkpoint, and restoration uses a new revert commit rather than destructive history rewriting.
